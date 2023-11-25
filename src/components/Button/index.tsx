@@ -12,6 +12,7 @@ const Container = styled.button`
     cursor: pointer;
     padding: 8px 16px;
     border-radius: 4px;
+    margin-left: 4px;
 
     &:hover{
         background-color: #ff572;
